@@ -31,3 +31,7 @@ h2{
 
 	
 }
+a:hover, a:focus {
+	color:#00FF00;
+	font-weight: bolder;
+}
