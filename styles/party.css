@@ -1,0 +1,33 @@
+article {
+	-moz-column-count: 3;
+	-webkit-column-count: 3;
+	column-count: 3;
+	-moz-column-gap: 35px;
+	-webkit-column-gap: 35px;
+	column-count-gap: 35px;
+	
+	
+}
+#copyright{
+text-align:center;
+}
+#article1{
+	background-image: linear-gradient(30deg, black 25%, white 30%, #ff4d4d 30%, black 100%);
+}
+
+h3{
+	/* The slogan text */
+	font-family:forte,"Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+	font-size:2em;
+	font-weight:lighter;
+	margin:0 0 4em;
+}
+
+h2{
+	font-size:2em;
+	font-weight:bold;
+	letter-spacing:0.01em;
+	text-transform:uppercase;
+
+	
+}

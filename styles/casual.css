@@ -1,0 +1,34 @@
+#copyright{
+text-align:center;
+}
+
+h3{
+	/* The slogan text */
+	font-family:forte,"Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+	font-size:2em;
+	font-weight:lighter;
+	margin:0 0 4em;
+}
+
+h2{
+	font-size:2em;
+	font-weight:bold;
+	letter-spacing:0.01em;
+	text-transform:uppercase;
+
+	
+}
+h1{
+	font-family:forte,"Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+	font-size:2em;
+	font-weight:lighter;
+	margin:0 8em 0;
+	padding: 0 0 0;
+}
+#article1{
+	background-image: linear-gradient(30deg, black 25%, white 30%, #ff4d4d 30%, black 100%);
+}
+a, p{
+	text-align:left;
+	text-color:black;
+}
